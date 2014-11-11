@@ -1,4 +1,6 @@
-# Ccms
+# ClubMS
+
+This project is alpha, and in no way functional. It should result in a CMS based on Ember and CouchDB/Cloudant.
 
 This README outlines the details of collaborating on this Ember application.
 
