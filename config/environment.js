@@ -11,7 +11,7 @@ module.exports = function(environment) {
       'style-src': "'self' 'unsafe-inline' fonts.googleapis.com",
       'frame-src': "s-static.ak.facebook.com static.ak.facebook.com www.facebook.com"
     },
-    modulePrefix: 'ccms',
+    modulePrefix: 'clubms',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
